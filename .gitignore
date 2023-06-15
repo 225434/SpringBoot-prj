@@ -1,0 +1,3 @@
+# 项目排除路径
+/out/
+/springboot-001-pre/target/
